@@ -1,0 +1,5 @@
+# cara jalan
+# python index.py --dataset dataset --index index.csv
+
+# kemudian
+# python search.py --index index.csv --query queries/biru01.png --result-path dataset
